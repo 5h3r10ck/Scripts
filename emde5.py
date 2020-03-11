@@ -1,6 +1,6 @@
 import requests
 import hashlib
-path="http://docker.hackthebox.eu:32401/"
+path=" "
 s=requests.Session()
 #get it
 out=s.get(path).text
