@@ -1,4 +1,3 @@
-from socket import socket
 from pwn import *
 ip = "test.test"
 port = 1337
